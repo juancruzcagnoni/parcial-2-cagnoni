@@ -1,0 +1,35 @@
+.form {
+  padding: 40px;
+  border: 1px solid #ccc;
+  width: 50%;
+  margin: 5rem auto;
+  border-radius: 10px;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form select,
+.form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+.lista {
+  margin-top: 20px;
+}
+
+.lista div {
+  margin-bottom: 20px;
+}
+
+.lista p {
+  margin: 5px 0;
+}
+
+hr {
+  border: 1px solid #ccc;
+}

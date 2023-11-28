@@ -1,0 +1,32 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-container{
+  height: 120px;
+  width: 120px;
+  margin: 10px;
+}
+
+.button-botones {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5b60f;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button-botones:hover {
+  background-color: #912c8c;
+}
+
+.button-botones:active {
+  transform: translateY(2px);
+}

@@ -1,0 +1,18 @@
+.navbar {
+    background-color: white;
+}
+
+.navbar-nav .nav-link {
+  color: #912C8C;
+  font-size: 1rem;  
+  font-weight: 700;
+  margin-left: 1.2rem;
+}
+
+.navbar-nav:hover .nav-link:hover {
+    color: #F5B60F;
+}
+
+.navbar-toggler-icon {
+  background-color: white;
+}

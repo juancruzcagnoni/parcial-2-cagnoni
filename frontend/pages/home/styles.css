@@ -1,0 +1,81 @@
+span {
+  font-weight: 700;
+}
+
+.tea {
+  color: #912c8c;
+}
+
+.yudo {
+  color: #f5b60f;
+}
+
+.hero-text {
+  width: 70%;
+  margin-bottom: 4rem;
+}
+
+.hero-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-img {
+  height: 400px;
+}
+
+.custom-accordion {
+  padding-top: 3rem;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.accordion-button {
+  background-color: #f5b60f;
+  color: #fff;
+  cursor: pointer;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #fff;
+  background-color: #f5b60f;
+  box-shadow: none;
+}
+
+.accordion-button:focus {
+  border-color: none;
+  outline: 0;
+  box-shadow: none;
+}
+
+.card {
+  background-color: #912c8c;
+  border: none;
+}
+
+.card-title {
+  color: #f5b60f;
+  margin-bottom: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.card-link {
+  color: #f5b60f;
+  text-decoration: none;
+}
+
+.contact_form {
+  align-items: normal;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contact {
+  background-color: #f5b60f;
+}
